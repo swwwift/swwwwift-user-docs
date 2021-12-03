@@ -2,13 +2,13 @@
 home: true
 tagline: Swwwift - Getting Started
 actionText: Quick Start →
-actionLink: /guide/
+actionLink: /
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: Learn to use Blocks
+  details: Learn how to use the block editor 
+- title: Customise Your Site
+  details: Create a unique style or select from our array of themes to get you started.
+- title: Templating
+  details: Learn how to change your site templates
 footer: Made by Swwwift with ❤️
 ---
